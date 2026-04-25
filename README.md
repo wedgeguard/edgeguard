@@ -1,9 +1,8 @@
-# EdgeGuard: Maritime Threat Detection Framework
-
-Code for DTISD 2026 paper.
+# EdgeGuard: Hybrid Simulation-Real Framework for Maritime Threat Detection
 
 ## Overview
-EdgeGuard is a hybrid simulation and real-data–driven framework for maritime threat detection.
+Official implementation of EdgeGuard, a real-time edge AI framework for maritime threat detection at the Bab el-Mandeb Strait.
+
 
 ## Contents
 - Source code (coming soon)
