@@ -1,5 +1,5 @@
 # EdgeGuard: Hybrid Simulation-Real Framework for Maritime Threat Detection
-assets/Architecture.ping
+
 **DTISD 2026 – Best Paper Candidate**
 
 ## Overview
