@@ -4,6 +4,9 @@
 
 ## Overview
 Official implementation of EdgeGuard, a real-time edge AI framework for maritime threat detection at the Bab el-Mandeb Strait.
+## System Architecture
+![EdgeGuard Architecture](assets/architecture.png)
+*Figure 1: Three-layer architecture of EdgeGuard (sensing, edge, command).*
 
 ## Key Features
 | Feature | Implementation |
