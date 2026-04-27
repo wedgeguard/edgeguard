@@ -1,2 +1,10 @@
-tensorflow>=2.10.0
+# I think these are all the libraries needed. Might have missed something.
+tensorflow>=2.12.0
 numpy>=1.23.5
+matplotlib>=3.7.1
+scikit-learn>=1.2.2
+seaborn>=0.12.2
+pandas>=1.5.3
+scipy>=1.10.0
+# optional: for loading images
+Pillow>=9.5.0
